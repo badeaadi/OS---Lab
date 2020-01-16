@@ -20,4 +20,4 @@ To decrypt a file :
 
 
 Where FILENAME is the name of the file to encrypt/decrypt (for example file.in) and
-FILEPERM is implicitly perm.out (file containing the permutations randomly generated from the encryption, needed for decryption)
+FILEPERM is implicitly perm.in (file containing the permutations randomly generated from the encryption, needed for decryption)

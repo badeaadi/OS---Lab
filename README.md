@@ -1,4 +1,4 @@
-# Encryptor, using pids and shared memory
+# Multiprocess encryptor, using pids and shared memory
 
 
 ## Compile

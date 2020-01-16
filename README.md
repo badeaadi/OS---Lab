@@ -9,8 +9,8 @@ gcc encryptor.c -o encryptor -lrt
 ```
 ## Start
 
-```
 To encrypt a file :
+
 
 ```
 
@@ -19,7 +19,10 @@ To encrypt a file :
 ```
 
 To decrypt a file :
+```
+
 ./decryptor decrypt FILENAME FILEPERM
+```
 
 
 Where FILENAME is the name of the file to encrypt/decrypt (for example file.in) and

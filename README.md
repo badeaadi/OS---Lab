@@ -9,7 +9,10 @@ gcc encryptor.c -o encryptor -lrt
 ```
 ## Start
 
+```
 To encrypt a file :
+
+```
 
 ./encryptor encrypt FILENAME
 
